@@ -1,0 +1,6 @@
+framework module Pods_DField {
+  umbrella header "Pods-DField-umbrella.h"
+
+  export *
+  module * { export * }
+}
