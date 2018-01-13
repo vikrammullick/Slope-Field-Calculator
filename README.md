@@ -3,11 +3,11 @@ Slope Field Calculator is an iOS app that allows for qualitative analysis of fir
 
 Features:
 
-- Slope Field Plotting 
-- Ability to Graph Particular Solution Given Single Point
-- Multiple Color Schemes Through Settings Menu
-- Many Useful Mathematical Operations
-- A Sleek and Intuitive Interface
+- Slope field plotting 
+- Ability to graph particular solution for given single point
+- Many useful mathematical operations
+- Multiple color schemes through settings menu
+- Sleek and intuitive interface
 
 Screenshot 1: Entering a Differential Equation
 ![Screenshot 1](https://github.com/bbm8/Slope-Field-Calculator/blob/master/AppScreenshots/Screenshot%201.png)
